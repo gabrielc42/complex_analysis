@@ -1,0 +1,8 @@
+[package]
+name = "complex_analysis"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num = "0.4"
+trig = "0.1.3"
